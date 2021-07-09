@@ -1,2 +1,2 @@
-service:
-  message: Hello this is the profile-dev config profile
+server:
+  port: 8082
